@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"utility","l":"RiemannSum","k":"10"},{"p":"utility","l":"Util"}];updateSearchResults();
