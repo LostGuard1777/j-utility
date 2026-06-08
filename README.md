@@ -7,8 +7,11 @@ A Java utility library.
 - `Util` class for general utility functions
 - `RiemannSum` functional interface for calculating indefinite integrals
 
+> To read documentation, check the `Docs` Folder.
+
 ## To use
 Add this line to your Java file:
 `import utility.*;`
 > **NOTE:** To just import utility functions, use
 > `import utility.Util;`
+
