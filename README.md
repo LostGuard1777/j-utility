@@ -1,7 +1,7 @@
 # j-utility
 A Java utility library.
 
-![Version: 1.1](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Version: 1.1](https://img.shields.io/badge/Version-1.1-blue.svg)
 
 ## Contents
 - `Util` class for general utility functions
